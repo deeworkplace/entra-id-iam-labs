@@ -39,11 +39,11 @@ A notification on the Company branding page states that custom CSS positioning p
 
 ### Company Branding Page
 
-![Company branding page](../screenshots/lab-12-company-branding-page.JPG)
+![Company branding page](../screenshots/Lab-12-company-branding-page.JPG)
 
 ### Branding Configuration Options
 
-![Branding configuration options](../screenshots/lab-12-company-branding-configuration-options.jpg)
+![Branding configuration options](../screenshots/Lab-12-company-branding-configuration-options.jpg)
 
 ## Key Takeaways
 
