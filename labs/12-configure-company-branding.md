@@ -35,11 +35,15 @@ The default company branding configuration includes the following options:
 
 A notification on the Company branding page states that custom CSS positioning properties will be retired in October 2026. Existing configurations using these properties must be updated before the retirement date.
 
-## Company Branding Page
+## Screenshots
 
+### Company Branding Page
 
+![Company branding page](../screenshots/lab-12-company-branding-page.JPG)
 
-## Branding Configuration Options
+### Branding Configuration Options
+
+![Branding configuration options](../screenshots/lab-12-company-branding-configuration-options.jpg)
 
 ## Key Takeaways
 
