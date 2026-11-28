@@ -24,7 +24,7 @@ Administrative Units provide a way to organize directory objects into administra
 
 Screenshot:
 
-![Administrative Units overview](../screenshots/lab-14-admin-units-overview.jpg)
+![Administrative Units overview](../screenshots/lab-14-admin-units-overview.png)
 
 ## 2. Create the IT Department Administrative Unit
 
@@ -38,9 +38,9 @@ The Administrative Unit was created successfully.
 
 Screenshots:
 
-![Create IT Department Administrative Unit](../screenshots/lab-14-create-it-department-au.jpg)
+![Create IT Department Administrative Unit](../screenshots/lab-14-create-it-department-au.png)
 
-![IT Department Administrative Unit created](../screenshots/lab-14-it-department-au-created.jpg)
+![IT Department Administrative Unit created](../screenshots/lab-14-it-department-au-created.png)
 
 ## 3. Review Administrative Unit Settings
 
@@ -55,7 +55,7 @@ These sections provide access to the objects and administrative role assignments
 
 Screenshot:
 
-![IT Department Administrative Unit](../screenshots/lab-14-it-department-au-overview.jpg)
+![IT Department Administrative Unit](../screenshots/lab-14-it-department-au-overview.png)
 
 ## 4. Add a User to the Administrative Unit
 
@@ -67,7 +67,7 @@ This places the user within the Administrative Unit's administrative scope.
 
 Screenshot:
 
-![Adele Vance added to IT Department AU](../screenshots/lab-14-it-department-au-user-added.jpg)
+![Adele Vance added to IT Department AU](../screenshots/lab-14-it-department-au-user-added.png)
 
 ## 5. Review Group Membership
 
@@ -79,7 +79,7 @@ Administrative Unit membership is separate from group membership. Adding a group
 
 Screenshot:
 
-![IT Department AU groups](../screenshots/lab-14-it-department-au-groups-empty.jpg)
+![IT Department AU groups](../screenshots/screenshots/lab-14-it-department-au-groups-empty.png)
 
 ## 6. Review Available Administrative Roles
 
@@ -91,7 +91,7 @@ The User Administrator role provides permissions for managing users, subject to 
 
 Screenshot:
 
-![Available administrative roles](../screenshots/lab-14-it-department-au-available-roles.jpg)
+![Available administrative roles](../screenshots/lab-14-it-department-au-available-roles.png)
 
 ## 7. Assign the User Administrator Role
 
@@ -107,11 +107,11 @@ Completed the assignment and verified that Chris Green appeared under the active
 
 Screenshots:
 
-![User Administrator assignment settings](../screenshots/lab-14-user-administrator-assignment-settings.jpg)
+![User Administrator assignment settings](../screenshots/lab-14-user-administrator-assignment-settings.png)
 
-![User Administrator assignment justification](../screenshots/lab-14-user-administrator-assignment-justification.jpg)
+![User Administrator assignment justification](../screenshots/lab-14-user-administrator-assignment-justification.png)
 
-![User Administrator role assigned](../screenshots/lab-14-user-administrator-role-assigned.jpg)
+![User Administrator role assigned](../screenshots/lab-14-user-administrator-role-assigned.png)
 
 ## 8. Test Delegated Administration
 
@@ -127,9 +127,9 @@ This demonstrated that the delegated administrator could access the user assigne
 
 Screenshot:
 
-![Chris Green accessing the user directory](../screenshots/lab-14-chris-green-user-directory-access.jpg)
+![Chris Green accessing the user directory](../screenshots/lab-14-chris-green-user-directory-access.png)
 
-![Chris Green viewing Adele Vance's profile](../screenshots/lab-14-chris-green-adele-vance-management.jpg)
+![Chris Green viewing Adele Vance's profile](../screenshots/lab-14-chris-green-adele-vance-management.png)
 
 ## 9. Compare Access to a Global Administrator Account
 
@@ -143,7 +143,7 @@ This provided an additional example of how the delegated administrator's availab
 
 Screenshot:
 
-![Chris Green viewing Global Administrator profile](../screenshots/lab-14-chris-green-global-admin-restricted-access.jpg)
+![Chris Green viewing Global Administrator profile](../screenshots/lab-14-chris-green-global-admin-restricted-access.png)
 
 ## 10. Results and Key Takeaways
 
