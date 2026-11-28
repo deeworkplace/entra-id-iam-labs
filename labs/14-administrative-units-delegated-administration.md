@@ -79,7 +79,7 @@ Administrative Unit membership is separate from group membership. Adding a group
 
 Screenshot:
 
-![IT Department AU groups](../screenshots/screenshots/lab-14-it-department-au-groups-empty.png)
+![IT Department AU groups](../screenshots/lab-14-it-department-au-groups-empty.png)
 
 ## 6. Review Available Administrative Roles
 
